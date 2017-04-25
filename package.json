@@ -1,0 +1,22 @@
+{
+  "name": "azure-storage-queue-sample",
+  "version": "1.0.0",
+  "description": "sample app interacting with Azure Storage queue",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenalexander/azure-storage-queue-sample.git"
+  },
+  "author": "Steven Alexander",
+  "license": "MIT",
+  "dependencies": {
+    "azure-storage": "^2.1.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  }
+}
